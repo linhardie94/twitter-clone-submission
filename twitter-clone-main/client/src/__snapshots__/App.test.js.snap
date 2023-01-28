@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RightSidebar component should match snapshot 1`] = `
+<div
+  class="p-6 bg-slate-100 rounded-lg mx-4 space-y-4"
+>
+  <h2
+    class="font-medium"
+  >
+    Trending
+  </h2>
+  <p
+    class="font-bold"
+  >
+    #gryffindor
+  </p>
+  <p
+    class="font-bold"
+  >
+    #hufflepuff
+  </p>
+  <p
+    class="font-bold"
+  >
+    #slytherin
+  </p>
+  <p
+    class="font-bold"
+  >
+    #ravenclaw
+  </p>
+</div>
+`;
